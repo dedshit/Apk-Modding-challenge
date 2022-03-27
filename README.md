@@ -191,4 +191,6 @@ nothing in resource.arsc instead found ***donated3*** in smali*
    - find its id
    - search and change it
 
-
+  <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+           <source src="/src/C5#1.mp4" type="video/mp4" />
+           
