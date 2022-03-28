@@ -203,4 +203,11 @@ nothing in resource.arsc instead found ***donated3*** in smali*
         - `grep -r 0x7f1200fc --color`
    
         ![20220328_111427](https://user-images.githubusercontent.com/62318734/160334393-c20bdaf2-337c-4b56-b64b-184292948dd0.png)
-`
+        
+        
+        [![](https://i.imgur.com/BVFHitC.png)](https://player.vimeo.com/video/692984086?h=6618b4cce9&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479)
+        
+        
+        
+        
+        
