@@ -208,6 +208,17 @@ nothing in resource.arsc instead found ***donated3*** in smali*
         [![](https://i.imgur.com/BVFHitC.png)](https://player.vimeo.com/video/692984086?h=6618b4cce9&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479)
         
         
+     
         
+
+https://user-images.githubusercontent.com/62318734/160352852-c7507200-1cc0-4022-b347-927c5863ce6d.mp4
+
+
+
+
+
+https://user-images.githubusercontent.com/62318734/160353280-dff1427f-0c2b-413f-ade6-9f6553f76078.mp4
+
+
         
         
