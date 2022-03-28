@@ -221,4 +221,5 @@ https://user-images.githubusercontent.com/62318734/160353280-dff1427f-0c2b-413f-
 
 
         
+ ### if apk not installed remove ***unknown*** and ***META-INF*** folder before build 
         
