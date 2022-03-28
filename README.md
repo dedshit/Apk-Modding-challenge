@@ -193,4 +193,6 @@ nothing in resource.arsc instead found ***donated3*** in smali*
    - search and change it
 
 
-        [![Little red riding hood](https://i.vimeocdn.com/video/1402458932-5395e87a1b345ad33810ebaf9d801912a15bb26ebca2b1e3a4c2692c67bb8fee-d?mw=500&mh=900&q=70)](https://vimeo.com/692934120 "Little red riding hood - Click to Watch!")
+        [![](https://i.imgur.com/a2yXU0C_d.webp?maxwidth=760&fidelity=grand)](https://player.vimeo.com/video/692934120?h=16dfe012f9&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479)
+        
+        
