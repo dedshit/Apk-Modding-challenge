@@ -186,11 +186,10 @@ nothing in resource.arsc instead found ***donated3*** in smali*
 
   ### solution
   
+  
    - Decompile the apk 
    - search for this toast msg
    - find its id
    - search and change it
 
-  <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
-           <source src="/src/C5#1.mp4" type="video/mp4" />
-           
+[![](https://i.imgur.com/VKXyTd4_d.webp?maxwidth=730&fidelity=grand)](https://vimeo.com/692934120)
