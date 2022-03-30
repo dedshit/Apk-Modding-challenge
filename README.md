@@ -223,3 +223,6 @@ https://user-images.githubusercontent.com/62318734/160353280-dff1427f-0c2b-413f-
         
  ### if apk not installed remove ***unknown*** and ***META-INF*** folder before build 
         
+# 6
+
+   ![Screenshot_20220330-102459_Google Play Store](https://user-images.githubusercontent.com/62318734/160754203-dd9f8341-0b42-451e-9dbb-d527a4f00751.png)
