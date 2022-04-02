@@ -1,5 +1,7 @@
 # Apk-Modding-challenge
-30 days | 30 small apks around 10-20Mb not >30 
+30 small apks around 10-20Mb not >30
+
+no time to do this shit
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 
