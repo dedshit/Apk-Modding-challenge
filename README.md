@@ -248,3 +248,8 @@ https://user-images.githubusercontent.com/62318734/161417057-71ce779c-5c98-434a-
 https://user-images.githubusercontent.com/62318734/161417127-ad03b382-0c3e-41e2-a7d4-0e7b4c588020.mp4
 
 
+
+# 7
+
+![Screenshot_20220403-175235_Google Play Store](https://user-images.githubusercontent.com/62318734/161427864-1d53d956-4b9d-416c-885f-dd250ad1f8bb.png)
+
