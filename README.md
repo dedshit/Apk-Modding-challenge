@@ -3,6 +3,42 @@
 
 no time to do this shit
 
+## If your device architecture is old you might see this
+
+   ![20220406_122147](https://user-images.githubusercontent.com/62318734/161913189-80b35701-f64b-4df2-b58b-8fdf8d716ce4.png)
+   
+   
+   most annoying thing 32bit users knew it xd
+   
+   in order to remove that warning either build it from source or replace that string with empty space of same character length
+   
+   1) extract apktool.jar using jar command
+   2) use xxd/hexdump to find offset of that string
+   3) use dd command for editing #note (exact offset needed otherwise consequences will be bad)
+   4) rebuild
+
+  ![Screenshot_20220406-124018_Termux](https://user-images.githubusercontent.com/62318734/161916321-1b86b56a-1427-416b-8383-eec038991c15.png)
+  
+  ![Screenshot_20220406-124257_Termux](https://user-images.githubusercontent.com/62318734/161917304-090f4a08-951d-4130-a558-2baea86e7f4f.png)
+
+  ![Screenshot_20220406-125318_Termux](https://user-images.githubusercontent.com/62318734/161918697-c5fe0d82-12f1-4e73-9a31-d872057ffa5e.png)
+  
+  ![Screenshot_20220406-131404_Termux](https://user-images.githubusercontent.com/62318734/161922528-f28a10de-d030-4ab0-b335-aa4dbd09e05c.png)
+
+ 
+  ![Screenshot_20220406-125547_Termux](https://user-images.githubusercontent.com/62318734/161919104-2d5f0df8-112b-4fa1-9a68-fc0a974be61e.png)
+  
+  ![Screenshot_20220406-130132_Termux](https://user-images.githubusercontent.com/62318734/161920253-8989c13f-3b17-4e39-aa5d-b16f3c858968.png)
+  
+  ![Screenshot_20220406-130341_Termux](https://user-images.githubusercontent.com/62318734/161920554-4f6dd72a-b8b2-43fb-844c-1bc5ac29af83.png)
+
+
+  
+  
+
+  
+
+  
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 
 ### Goal - <img src="https://img.shields.io/static/v1?label=&message=Smali&color=important&style=plastic&logoColor=violet" width="30" height="15"> knowledge is must
