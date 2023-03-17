@@ -293,3 +293,18 @@ https://user-images.githubusercontent.com/62318734/161417127-ad03b382-0c3e-41e2-
      
      https://github.com/dedshit/AstroTalk-PoC.git
 
+# PrepLadder
+
+   ![Screenshot_20230317-115630_Google Play Store](https://user-images.githubusercontent.com/62318734/225833061-3e79cc64-84e7-4319-96a9-882ae9cb5351.png)
+
+
+    ## SecretKey: 6120e6224d4127aee7d0b1f6a2d77d6e
+    ## Mode: CBC
+    ## KeySize: 256
+    ## IV: 750e579bbdec194f
+    
+    
+
+https://user-images.githubusercontent.com/62318734/225829000-2e060b1c-1cb7-48db-bd97-8fc3e17cd4e5.mp4
+
+
