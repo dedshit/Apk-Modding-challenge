@@ -316,3 +316,4 @@ https://user-images.githubusercontent.com/62318734/225829000-2e060b1c-1cb7-48db-
 ![20230331_224559](https://user-images.githubusercontent.com/62318734/229187322-6470a288-e138-4294-8975-600398b3e710.png)
 ![20230331_224411](https://user-images.githubusercontent.com/62318734/229187369-81e49e19-e1d4-4668-92c0-3097aec14acd.png)
 
+## Api : `https://bsnodeapinew.business-standard.com/auth/signup-login-with-otp`
