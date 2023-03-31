@@ -312,3 +312,7 @@ https://user-images.githubusercontent.com/62318734/225829000-2e060b1c-1cb7-48db-
    ![Screenshot_20230331-221102_Chrome](https://user-images.githubusercontent.com/62318734/229180159-4b146a24-1820-4368-bcb5-5e11758ae87f.png)
 
 # **OTP bypass - Unintended disclosure of OTP to client leads to account takeover**
+
+![20230331_224559](https://user-images.githubusercontent.com/62318734/229187322-6470a288-e138-4294-8975-600398b3e710.png)
+![20230331_224411](https://user-images.githubusercontent.com/62318734/229187369-81e49e19-e1d4-4668-92c0-3097aec14acd.png)
+
