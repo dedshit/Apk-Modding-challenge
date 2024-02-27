@@ -290,6 +290,8 @@ https://user-images.githubusercontent.com/62318734/161417127-ad03b382-0c3e-41e2-
 
 
    # For demo 
+
+
      
      https://github.com/dedshit/AstroTalk-PoC.git
 
@@ -317,3 +319,15 @@ https://user-images.githubusercontent.com/62318734/225829000-2e060b1c-1cb7-48db-
 ![20230331_224411](https://user-images.githubusercontent.com/62318734/229187369-81e49e19-e1d4-4668-92c0-3097aec14acd.png)
 
 ## Api : `https://bsnodeapinew.business-standard.com/auth/signup-login-with-otp`
+
+
+# AI Mate
+
+
+   ![Screenshot_20240227_223104](https://github.com/dedshit/Apk-Modding-challenge/assets/62318734/d7f44b49-8f5e-4119-9cd0-2da35117101a)
+
+   
+
+   https://github.com/dedshit/Apk-Modding-challenge/assets/62318734/f8444510-59e6-47d7-ae3a-812bf359eb27
+
+
